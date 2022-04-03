@@ -1,4 +1,7 @@
+.item {
+  color: red;
+}
 
-  .item{
-    color: red;
-  }
+.postsBlock {
+  padding: 10px;
+}
